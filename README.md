@@ -4,6 +4,10 @@
 
 Personal linux environment configuration scripts, including some of my favorite tools
 
+### tmux
+
+After installation, use ```prefix + I``` to install plugins
+
 ### LazyVim
 
 After installation, use the following command
