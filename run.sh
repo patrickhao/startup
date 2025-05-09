@@ -6,7 +6,7 @@ cd $HOME
 
 sudo apt update &&
   sudo apt install -y vim curl wget git zsh tmux &&
-  sudo apt install -y build-essential python3 python3-pip fzf ripgrep luarocks
+  sudo apt install -y build-essential python3 python3-pip python3-venv fzf ripgrep luarocks
 
 if [ ! -e $HOME/softwares ]; then mkdir $HOME/softwares; fi
 SOFTWARES="$HOME/softwares"
