@@ -20,3 +20,5 @@ After installation, use the following command
 <space> c m
 // install lsp
 ```
+
+> To fix a mason config error in LazyVim, open the Lazy UI and press ```C``` and then ```U```, then restart LazyVim and run ```Lazy update``` again to update Mason.
